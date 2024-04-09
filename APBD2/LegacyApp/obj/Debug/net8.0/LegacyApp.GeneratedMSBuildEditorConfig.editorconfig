@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LegacyApp
-build_property.ProjectDir = C:\Users\s24778\RiderProjects\APBD\APBD2\LegacyApp\
+build_property.ProjectDir = C:\Users\Filip\Desktop\java cwiczenia\APBD\APBD2\LegacyApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
